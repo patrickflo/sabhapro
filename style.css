@@ -1,0 +1,41 @@
+.antp1{
+    color: rgb(89, 0, 255); 
+    text-align-last: center;
+ }
+ .antp2{
+    
+    text-align-last: center;
+    font-size: 14pt;
+ }
+ .mot{
+    color: rgb(53, 24, 185); 
+ }
+
+ .logos {
+   height: 30px;
+ }
+
+ .mecanic {
+   height: 100px;
+ }
+ .trans{
+   color: rgb(0, 255, 64);
+ }
+ .faq{
+  color: rgb(89, 0, 255);
+  font-size: 14pt;
+ }
+ .adres{
+  text-align-last: center;
+  color: rgb(0, 26, 255);
+ }
+ .mus{
+  text-align-last: center;
+  color: rgb(0, 26, 255);
+  font-size: 20pt;
+ }
+ .sour{
+  text-align-last: center;
+  color: rgb(51, 206, 72);
+  font-size: 20pt;
+ }
